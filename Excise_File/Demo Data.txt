@@ -1,0 +1,71 @@
+Main Category and Sub-Category :
+==International  /  अंतर्राष्ट्रीय
+---Asia  /  एशिया
+---Europe  /   यूरोप
+---Americas  /  अमेरिका की
+---Middle East  /  मध्य पूर्व
+---India  /  भारत
+---China  /  चीन
+
+==Sports  /  खेल 
+---Cricket  /  क्रिकेट
+---Football  /  फुटबॉल 
+---Local sports  /  स्थानीय खेल
+  
+==Business  /  व्यवसाय
+---Local  /  स्थानीय 
+---Global  /  वैश्विक 
+
+==Entertainment  /  मनोरंजन
+---Dhallywood  /  धालीवुड 
+---Bollywood  /  बॉलीवुड
+---Hollywood  /  हॉलीवुड 
+
+==Lifestyle  /  जीवन शैली
+---Fashion  /  फैशन 
+---Health  /  स्वास्थ्य 
+---Travel  /  यात्रा 
+ 
+ 
+District And Sub-District 
+Bihar Sub-District 
+Banka	बांका
+Begusarai	बेगूसराय
+Manjhaul	मंझौल
+Ballia	बलिया
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
